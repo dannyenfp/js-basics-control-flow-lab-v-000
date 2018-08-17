@@ -10,7 +10,9 @@ function scuberGreetingForFeet (someValue) {
   }
 }
 
-
+function ternaryCheckCity(city) {
+  
+}
 
 describe('ternaryCheckCity()', function () {
     it('returns "Ok, sounds good." when the city is NYC', function () {
